@@ -7,6 +7,7 @@
 软件架构说明
 1，使用springboot
 2，整合webjars资源加载框架
+3，使用bootstrap前端框架
 
 
 
